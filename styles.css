@@ -19,6 +19,8 @@ a:visited {
     text-decoration: none;
     color: #000000;
     font-weight: bold;
+    border-right: 1px solid #ff0000;
+    border-left: 1px solid #ff0000;
 }
 
 a:hover {
