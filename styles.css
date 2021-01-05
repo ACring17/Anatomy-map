@@ -4,7 +4,7 @@ body {
     width: 960px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 8.5in) {
     .topnav a {
         float: none;
         width: 100%;
