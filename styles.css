@@ -32,17 +32,26 @@ a:hover {
     color: #ff0000;
 }
 
+nav {
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 20px 20px;
+    height: 100%;
+    width: 17%;
+    position: fixed;
+    overflow: auto;
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
 }
 
 nav li {
-    display: inline;
-    float: left;
-    border-right: 1px solid #ff0000;
-    border-left: 1px solid #ff0000;
-    margin-bottom: 30px;
+    display: block;
 }
 
 nav a:link,
