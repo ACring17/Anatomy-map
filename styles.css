@@ -1,8 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0 auto;
-    width: 960px;
+    /*width: 960px;*/
 }
+
+#main {
+    transition: margin-left .5s;
+    padding-left: 247px;
+}
+
 
 @media screen and (max-width: 8.5in) {
     .topnav a {
