@@ -23,6 +23,9 @@ h1 {
 
 p {
     margin-right: 60px;
+    text-indent: 2vw;
+    line-height: 1.5;
+    font-size: medium;
 }
 
 .picCenter {
