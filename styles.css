@@ -21,6 +21,10 @@ h1 {
     text-align: center;
 }
 
+p {
+    margin-right: 60px;
+}
+
 .picCenter {
     display: block;
     margin-left: auto;
@@ -85,4 +89,5 @@ th {
 table {
     color: #000000;
     border-collapse: collapse;
+    margin-left: 60px;
 }
