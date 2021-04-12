@@ -94,3 +94,8 @@ table {
     border-collapse: collapse;
     margin-left: 60px;
 }
+
+li {
+    margin-right: 60px;
+    line-height: 1.5;
+}
