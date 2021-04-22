@@ -71,6 +71,7 @@ nav a:visited {
     background-color: #ffffff;
     color: Black;
     display: flex;
+    justify-content: space-around;
     text-align: center;
     padding: 20px 5px;
 }
