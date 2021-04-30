@@ -101,3 +101,52 @@ table {
 li {
     line-height: 1.5;
 }
+
+/* For large phone screens.*/
+
+@media screen and (min-width: 400px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
+
+
+/* For landscape mobile screens.*/
+
+@media screen and (min-width: 568px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
+
+
+/* For tablet screens*/
+
+@media screen and (min-width: 768px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
+
+
+/* For small desktops/laptops screens*/
+
+@media screen and (min-width: 1024px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
+
+
+/*Normal desktop screens*/
+
+@media screen and (min-width: 1300px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
