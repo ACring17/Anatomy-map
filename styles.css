@@ -9,14 +9,6 @@ body {
     padding-left: 200px;
 }
 
-
-@media screen and (max-width: 8.5in) {
-    .topnav a {
-        float: none;
-        width: 100%;
-    }
-}
-
 h1 {
     text-align: center;
 }
