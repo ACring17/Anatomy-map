@@ -94,6 +94,13 @@ li {
     line-height: 1.5;
 }
 
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
 /* For large phone screens.*/
 
 @media screen and (min-width: 400px) {
