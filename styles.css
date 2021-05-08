@@ -104,9 +104,8 @@ li {
 /* For large phone screens.*/
 
 @media screen and (min-width: 400px) {
-    .topnav a {
-        float: none;
-        width: 100%;
+    footer {
+        padding-left: 200px;
     }
 }
 
@@ -117,6 +116,9 @@ li {
     .topnav a {
         float: none;
         width: 100%;
+    }
+    footer {
+        padding-left: 200px;
     }
 }
 
