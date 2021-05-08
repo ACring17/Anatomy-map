@@ -104,6 +104,9 @@ li {
 /* For large phone screens.*/
 
 @media screen and (min-width: 400px) {
+    #main {
+        padding-left: 200px;
+    }
     footer {
         padding-left: 200px;
     }
