@@ -103,7 +103,7 @@ li {
 
 /* For large phone screens.*/
 
-@media screen and (min-width: 400px) {
+/*@media screen and (min-width: 400px) {
     #main {
         padding-left: 200px;
     }
@@ -111,11 +111,11 @@ li {
         padding-left: 200px;
     }
 }
-
+*/
 
 /* For landscape mobile screens.*/
 
-@media screen and (min-width: 568px) {
+/*@media screen and (min-width: 568px) {
     .topnav a {
         float: none;
         width: 100%;
@@ -124,33 +124,33 @@ li {
         padding-left: 200px;
     }
 }
-
+*/
 
 /* For tablet screens*/
 
-@media screen and (min-width: 768px) {
+/*@media screen and (min-width: 768px) {
     .topnav a {
         float: none;
         width: 100%;
     }
 }
-
+*/
 
 /* For small desktops/laptops screens*/
 
-@media screen and (min-width: 1024px) {
+/*@media screen and (min-width: 1024px) {
     .topnav a {
         float: none;
         width: 100%;
     }
 }
-
+*/
 
 /*Normal desktop screens*/
 
-@media screen and (min-width: 1300px) {
+/*@media screen and (min-width: 1300px) {
     .topnav a {
         float: none;
         width: 100%;
     }
-}
+}*/
