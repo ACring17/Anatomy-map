@@ -26,6 +26,13 @@ p {
     margin-right: auto;
 }
 
+a img:hover {
+    transition: all .2s ease-in-out;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 a:link,
 a:visited {
     text-decoration: none;
