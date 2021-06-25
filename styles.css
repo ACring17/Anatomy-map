@@ -107,6 +107,12 @@ li {
     align-items: center;
 }
 
+hr {
+    width: 100%;
+    height: 5px;
+    background-color: #fd5050;
+}
+
 /* For large phone screens.*/
 
 /*@media screen and (min-width: 400px) {
