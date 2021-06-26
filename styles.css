@@ -97,7 +97,7 @@ table {
 }
 
 li {
-    line-height: 1.5;
+    line-height: 2;
 }
 
 .row {
@@ -105,6 +105,11 @@ li {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+}
+
+.exercise {
+    margin-right: 10px;
 }
 
 hr {
