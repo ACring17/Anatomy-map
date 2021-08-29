@@ -20,6 +20,8 @@ p {
     font-size: medium;
 }
 
+/* Image and link classes and rules */
+
 .picCenter {
     display: block;
     margin-left: auto;
