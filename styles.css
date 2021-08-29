@@ -80,6 +80,8 @@ nav a:hover {
     background-color: #fd5050;
 }
 
+/* Table rules for the index */
+
 td,
 th {
     border: 1px solid #000000;
