@@ -5,6 +5,6 @@ This is my first project to Github. This project helped me understand the import
 
 Click this link to view the website: https://acring17.github.io/Anatomy-map/
 
-##Technologies used:
-*HTML
-*CSS
+## Technologies used:
+* HTML
+* CSS
