@@ -8,3 +8,5 @@ Click this link to view the website: https://acring17.github.io/Anatomy-map/
 ## Technologies used:
 * HTML
 * CSS
+
+![alt text](https://github.com/ACring17/Project-Portfolio/blob/main/images/project-anatomy-map.jpeg?raw=true)
